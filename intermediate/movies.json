@@ -1,14 +1,8 @@
 [
   {
-    "id": "imdb:tt1341338",
     "title": "Good Luck, Have Fun, Don't Die",
     "year": 2025,
-    "mediaType": "movie",
-    "identifiers": {
-      "imdb": "tt1341338",
-      "tmdb": null,
-      "tvdb": null
-    },
-    "tags": []
+    "imdb_id": "tt1341338",
+    "imdbId": "tt1341338"
   }
 ]
