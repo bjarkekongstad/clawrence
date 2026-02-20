@@ -1,14 +1,12 @@
-{
-  "results": [
-    {
-      "id": 1119449,
-      "title": "Good Luck, Have Fun, Don't Die",
-      "release_date": "2026-02-13"
-    },
-    {
-      "id": 603,
-      "title": "The Matrix",
-      "release_date": "1999-03-31"
-    }
-  ]
-}
+[
+  {
+    "id": 1119449,
+    "title": "Good Luck, Have Fun, Don't Die",
+    "release_date": "2026-02-13"
+  },
+  {
+    "id": 603,
+    "title": "The Matrix",
+    "release_date": "1999-03-31"
+  }
+]
