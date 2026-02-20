@@ -1,0 +1,180 @@
+{
+  "schema": "media-brain-arr-list/v1",
+  "generatedBy": "media-brain",
+  "count": 11,
+  "items": [
+    {
+      "id": "imdb:tt0312172",
+      "title": "Monk",
+      "year": 2002,
+      "mediaType": "tv",
+      "identifiers": {
+        "imdb": "tt0312172",
+        "tmdb": 1695,
+        "tvdb": 78490
+      },
+      "tags": [
+        "genre:comedy",
+        "genre:crime",
+        "genre:drama",
+        "genre:mystery"
+      ]
+    },
+    {
+      "id": "imdb:tt0410975",
+      "title": "Desperate Housewives",
+      "year": 2004,
+      "mediaType": "tv",
+      "identifiers": {
+        "imdb": "tt0410975",
+        "tmdb": 693,
+        "tvdb": 73800
+      },
+      "tags": [
+        "genre:comedy",
+        "genre:drama",
+        "genre:mystery"
+      ]
+    },
+    {
+      "id": "imdb:tt0491738",
+      "title": "Psych",
+      "year": 2006,
+      "mediaType": "tv",
+      "identifiers": {
+        "imdb": "tt0491738",
+        "tmdb": 1447,
+        "tvdb": 79335
+      },
+      "tags": [
+        "genre:comedy",
+        "genre:crime",
+        "genre:drama"
+      ]
+    },
+    {
+      "id": "imdb:tt12343534",
+      "title": "JUJUTSU KAISEN",
+      "year": 2020,
+      "mediaType": "tv",
+      "identifiers": {
+        "imdb": "tt12343534",
+        "tmdb": 95479,
+        "tvdb": 377543
+      },
+      "tags": [
+        "genre:action & adventure",
+        "genre:animation",
+        "genre:sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": "imdb:tt12637874",
+      "title": "Fallout",
+      "year": 2024,
+      "mediaType": "tv",
+      "identifiers": {
+        "imdb": "tt12637874",
+        "tmdb": 106379,
+        "tvdb": 416744
+      },
+      "tags": [
+        "genre:action & adventure",
+        "genre:sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": "imdb:tt1586680",
+      "title": "Shameless",
+      "year": 2011,
+      "mediaType": "tv",
+      "identifiers": {
+        "imdb": "tt1586680",
+        "tmdb": 34307,
+        "tvdb": 161511
+      },
+      "tags": [
+        "genre:comedy",
+        "genre:drama"
+      ]
+    },
+    {
+      "id": "imdb:tt22248376",
+      "title": "Frieren: Beyond Journey's End",
+      "year": 2023,
+      "mediaType": "tv",
+      "identifiers": {
+        "imdb": "tt22248376",
+        "tmdb": 209867,
+        "tvdb": 424536
+      },
+      "tags": [
+        "genre:action & adventure",
+        "genre:animation",
+        "genre:drama",
+        "genre:sci-fi & fantasy"
+      ]
+    },
+    {
+      "id": "imdb:tt31938062",
+      "title": "The Pitt",
+      "year": 2025,
+      "mediaType": "tv",
+      "identifiers": {
+        "imdb": "tt31938062",
+        "tmdb": 250307,
+        "tvdb": 448176
+      },
+      "tags": [
+        "genre:drama"
+      ]
+    },
+    {
+      "id": "imdb:tt35149250",
+      "title": "The Art of Sarah",
+      "year": 2026,
+      "mediaType": "tv",
+      "identifiers": {
+        "imdb": "tt35149250",
+        "tmdb": 273977,
+        "tvdb": 472689
+      },
+      "tags": [
+        "genre:crime",
+        "genre:drama",
+        "genre:mystery"
+      ]
+    },
+    {
+      "id": "imdb:tt7587890",
+      "title": "The Rookie",
+      "year": 2018,
+      "mediaType": "tv",
+      "identifiers": {
+        "imdb": "tt7587890",
+        "tmdb": 79744,
+        "tvdb": 350665
+      },
+      "tags": [
+        "genre:comedy",
+        "genre:crime",
+        "genre:drama"
+      ]
+    },
+    {
+      "id": "tmdb:1399",
+      "title": "Game of Thrones",
+      "year": 2011,
+      "mediaType": "tv",
+      "identifiers": {
+        "imdb": null,
+        "tmdb": 1399,
+        "tvdb": null
+      },
+      "tags": [
+        "drama",
+        "fantasy"
+      ]
+    }
+  ]
+}
